@@ -1,0 +1,7 @@
+
+d	php:S11928"HDefine a constant instead of duplicating this literal "message" 3 times.(Šá¿Ò8¡¾´î-
+c	php:S11928"GDefine a constant instead of duplicating this literal "danger" 3 times.(Šá¿Ò8¡¾´î-
+g	php:S1192$"FDefine a constant instead of duplicating this literal "email" 3 times.(´Ğ‘êùÿÿÿÿ8¿¡½šî-
+:php:S125N"Remove this commented out code.(í¹ôü8¿¡½šî-
+P	php:S1109["/Move this closing curly brace to the next line.(Ïú¸Œøÿÿÿÿ8¿¡½šî-
+e	php:S1192%"IDefine a constant instead of duplicating this literal "password" 3 times.(ß™¦8¿¡½šî-

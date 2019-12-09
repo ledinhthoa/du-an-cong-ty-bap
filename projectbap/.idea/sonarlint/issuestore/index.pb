@@ -1,0 +1,41 @@
+
+P
+ resources/views/header.blade.php,b\9\b9908483695ade0a53fb0336f0fa4a41a3b574e8
+4
+.env,3\c\3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
+<
+app/User.php,5\1\5158cc6821d0344345606af2834807beae093242
+<
+app/Post.php,b\a\ba29bc11bfd3bc64ed841be22df6558ee30c122d
+l
+<database/migrations/2019_12_07_032734_create_posts_table.php,0\1\01b3158b93f012625aa3c7d8c88f798e1ba77cd5
+P
+ resources/views/footer.blade.php,a\8\a84c30db7ba8d764dd9d0112aa9348be4b5a0388
+X
+(app/Http/Controllers/PostsController.php,b\2\b2d50a0529da9ac3f5c81706615c2a6582f4da55
+l
+<database/migrations/2014_10_12_000000_create_users_table.php,d\e\de963aaada5c6577b654cfbdcf083dc355b1fa2b
+T
+$resources/views/page/login.blade.php,e\7\e7114f5bb1268ea7d41e164de2f050758613150a
+W
+'resources/views/page/post_add.blade.php,b\f\bfbfc97af2a0a7e6573a694b801f6c2c786b63db
+X
+(resources/views/page/post_edit.blade.php,1\c\1c91d4ce4937f268597fdcacfca274892cfe87fc
+Y
+)resources/views/page/edit_users.blade.php,6\6\6665788518d5572a2d6f6f141160539072bb055b
+>
+routes/web.php,6\b\6b9a783d9b43fee50fd28f56dbd1856d2608f305
+P
+ resources/views/master.blade.php,3\5\355e472848c127a8262d6083e683386b4c50022a
+O
+resources/views/index.blade.php,7\2\7285af984716ae46f13e2fe2f49a6044922e65e7
+Y
+)resources/views/page/admin_home.blade.php,a\d\ade17b7b4fdb1b1bbed5ea150ffd3d1620c22bc1
+Y
+)resources/views/page/users_list.blade.php,f\6\f65304ef5c1370f19194b302539c06c9713cbcaa
+Y
+)app/Http/Controllers/ManageController.php,2\9\2942e1a46820c005a007072c57d7ac991968f2c8
+Y
+)resources/views/page/detailpost.blade.php,3\2\3209a24200e69c92a9f0ca8853f97098c53b85cc
+U
+%resources/views/page/dangki.blade.php,5\f\5f4a71beae70f5d099500dfc641c850414873e1a
